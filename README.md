@@ -1,30 +1,12 @@
-# Hi, I'm Prisco
+# Hi, I’m Vincenzo Prisco
 
-I contribute to open-source software, working on interface details, interaction behaviour, and Linux desktop integration in Rust.
+I’m a software engineer and product builder. I design and build web and mobile applications, working across user interfaces, backend services, data, and deployment. I co-founded MyVet, where I worked on apps for pet owners and the people who care for their animals. I also build and maintain my portfolio and its CMS with React, TypeScript, TanStack Start, and Cloudflare.
 
-[Website](https://prisco.me) · [GitHub](https://github.com/Carbocode)
+## Open source
 
-## Open-source contributions
+I actively contribute to **FigCraft** and **MailCraft**, two open-source desktop applications built in Rust. I implement missing features and refine existing interfaces and workflows. I apply established usability and interaction design principles, with particular attention to consistent controls, clear feedback, and predictable behavior.
 
-### [FigCraft](https://github.com/storytold/figcraft)
+- **[FigCraft](https://github.com/storytold/figcraft)** is an interface design and prototyping app. I work on editing workflows and the controls designers use to adjust layouts, manage layers, and make precise changes.
+- **[MailCraft](https://github.com/UCS-Care-Group/mailcraft)** brings email, calendars, contacts, and tasks together. I work on account setup and Linux desktop integration, with a focus on making setup steps and account status easy to understand.
 
-An open-source interface design and prototyping app built in Rust. My contributions focus on making everyday design interactions more consistent and predictable.
-
-**Selected merged contributions**
-
-- **Auto layout:** convert a group into an auto layout frame in place, preserving its children and undo history. [#1546](https://github.com/storytold/figcraft/pull/1546)
-- **Colour editing:** unify page and selection colour controls, correct canvas transparency, and improve colour picker positioning and dismissal. [#2149](https://github.com/storytold/figcraft/pull/2149) · [#2011](https://github.com/storytold/figcraft/pull/2011) · [#1544](https://github.com/storytold/figcraft/pull/1544)
-- **Layers and sidebar:** draw continuous selection highlights in the layer tree and keep field text aligned when focused. [#2010](https://github.com/storytold/figcraft/pull/2010) · [#1651](https://github.com/storytold/figcraft/pull/1651)
-- **Corner smoothing:** add a draggable control with precise fractional values and undo/redo support. [#1521](https://github.com/storytold/figcraft/pull/1521)
-
-[All my FigCraft pull requests](https://github.com/storytold/figcraft/pulls?q=is%3Apr+author%3ACarbocode)
-
-### [MailCraft](https://github.com/UCS-Care-Group/mailcraft)
-
-An open-source mail, calendar, contacts, and tasks app built in Rust.
-
-**In progress — [PR #1201](https://github.com/UCS-Care-Group/mailcraft/pull/1201)**
-
-GNOME Online Accounts integration for Linux: explicit account import, Microsoft Graph mail support, and supported IMAP/SMTP accounts. The contribution includes a redesigned import dialog, account lifecycle handling, documentation, and regression tests. Linked accounts use credentials managed by GNOME Online Accounts.
-
-[All my MailCraft pull requests](https://github.com/UCS-Care-Group/mailcraft/pulls?q=is%3Apr+author%3ACarbocode)
+[Portfolio and software projects](https://prisco.me)
